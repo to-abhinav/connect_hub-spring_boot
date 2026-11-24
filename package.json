@@ -1,0 +1,15 @@
+{
+  "name": "connect-hub",
+  "version": "1.0.0",
+  "description": "This is Smart Hub",
+  "license": "ISC",
+  "author": "Abhinav Tomar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
